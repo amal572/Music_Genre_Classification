@@ -11,7 +11,7 @@ Training dataset: 14395 rows with 18 columns Column details: artist name; track 
 
 ### Files:
 <li>train(1).csv - the training set</li>
-### Features
+### Features:
 <li>artist: Name of the Artist.</li>
 <li>song: Name of the Track.</li>
 <li>popularity: popular the song.</li>
