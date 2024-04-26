@@ -10,9 +10,9 @@ https://www.kaggle.com/competitions/shai-music-genre-classification
 Training dataset: 14395 rows with 18 columns Column details: artist name; track name; popularity; ‘danceability’; energy; key; loudness; mode; ‘speechiness’; ‘acousticness’; ‘instrumentalness’; liveness; valence; tempo; duration in milliseconds and time_signature. Target Variable: 'Class’ such as Rock, Indie, Alt, Pop, Metal, HipHop, Alt_Music, Blues, Acoustic/Folk, Instrumental, Country, Bollywood, Test dataset: 3600 rows with 17 columns
 
 ### Files:
-<li>train(1).csv - the training set</li>
+train(1).csv - the training set
 
-Features :
+### Features :
 <li> Artist: Name of the Artist.</li>
 <li>song: Name of the Track.</li>
 <li>popularity: popular the song.</li>
